@@ -1,0 +1,19 @@
+article,
+aside,
+nav,
+section,
+header,
+footer,
+figure,
+main {
+    display: block;
+}
+
+article {
+    width: 100%;
+    margin: 0 auto;
+}
+
+h2 {
+    background-color: blue;
+}
